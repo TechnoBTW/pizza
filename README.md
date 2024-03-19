@@ -1,2 +1,8 @@
 project pizza 
-authors:(I(Heorhii(CrossBTW)(teamlead) + Guzal + Givi)
+authors:
+
+I(Heorhii(https://github.com/CrossBTW))(teamlead)
+        
+Guzal(https://github.com/GuzalASLAM)
+
+Givi(https://github.com/Givi3)
