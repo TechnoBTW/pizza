@@ -1,7 +1,7 @@
 project pizza 
 authors:
 
-I(Heorhii(https://github.com/CrossBTW))(teamlead)
+I(Heorhii(https://github.com/CrossBTW)) (teamlead)
         
 Guzal(https://github.com/GuzalASLAM)
 
