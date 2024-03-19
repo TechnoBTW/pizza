@@ -1,2 +1,2 @@
 project pizza 
-author:(I(Heorhii(CrossBTW)(teamlead) + Guzal + Givi)
+authors:(I(Heorhii(CrossBTW)(teamlead) + Guzal + Givi)
