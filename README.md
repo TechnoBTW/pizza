@@ -1,8 +1,8 @@
 project pizza 
 authors:
 
-I(Heorhii(https://github.com/CrossBTW)) (teamlead) (50%)
+I(Heorhii(https://github.com/CrossBTW)) (teamlead) 
         
-Guzal(https://github.com/GuzalASLAM) (49%)
+Guzal(https://github.com/GuzalASLAM) 
 
-Givi(https://github.com/Givi3) (1%)
+Givi(https://github.com/Givi3) 
